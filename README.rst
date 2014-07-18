@@ -51,6 +51,9 @@ Based on: http://djangosnippets.org/snippets/1376/
 
 Requires: Django >= 1.4
 
+See also: django-overextends_, which allows you to use circular template
+inheritance.
+
 Tested with Python 2.6, 2.7, 3.2, 3.3.
 
 .. |travis-develop| image:: https://travis-ci.org/Fantomas42/django-app-namespace-template-loader.png?branch=develop
@@ -59,3 +62,4 @@ Tested with Python 2.6, 2.7, 3.2, 3.3.
 .. |coverage-develop| image:: https://coveralls.io/repos/Fantomas42/django-app-namespace-template-loader/badge.png?branch=develop
    :alt: Coverage of the code
    :target: https://coveralls.io/r/Fantomas42/django-app-namespace-template-loader
+.. _django-overextends: https://github.com/stephenmcd/django-overextends
